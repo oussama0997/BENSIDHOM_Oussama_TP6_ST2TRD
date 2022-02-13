@@ -1,0 +1,59 @@
+-------------------------------------------------------------------------------------
+                                      EXERCICE 1                                                  
+-------------------------------------------------------------------------------------
+ 
+1- a clean code:
+
+* is obvious for other programmers.
+* doesn’t contain duplication.
+* contains a minimal number of classes and other moving parts.
+* passes all tests.
+* is easier and cheaper to maintain.
+
+The main role played by refactoring is to fight technical debt.Actually, It transforms a mess 
+into clean code and simple design.
+
+2-  I don’t think that code can ever be “too clean”, and following the four elements of Simple 
+Design should not result in over-engineering. But certainly there is code that needs more 
+cleaning up than other cases, and we rarely have enough time to do all we want. That’s why
+prioritization is needed.
+
+3- a code smell is :
+
+* Bloaters
+* Object-Orientation Abusers
+* Change Preventer
+* Dispensables
+* Couplers
+
+4- Can you identify a few code smells in the original GuildedRose?
+
+* Long method
+* Many conditionals
+* Repetition
+* Negative logic
+* Similar patterns
+* Poorly formatted
+
+5- refactoring techniques you could have used in the GuildedRose?
+
+The refactoring technique you should use here is called replace conditional with polymorphism. 
+The main idea here is that instead of having conditionals everywhere, you will have one factory
+method centralizing the conditions and in charge of generating an instance of the right type of 
+good, where each type of good has its own class implementing the same interface.
+
+-------------------------------------------------------------------------------------
+                                      EXERCICE 2                                                  
+-------------------------------------------------------------------------------------
+ 
+1- What’s a design pattern?
+
+Design patterns are typical solutions to commonly occurring problems in software design. 
+They are like pre-made blueprints that you can customize to solve a recurring design problem
+in your code.
+
+2- This a good because it makes the code easier to add new features. In other words when we 
+would like to add a new type of pizza its easy to add it the codes.
+
+
+
