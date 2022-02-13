@@ -1,0 +1,7 @@
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\bin\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.exe.config
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\bin\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.exe
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\bin\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.pdb
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\obj\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.csprojAssemblyReference.cache
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\obj\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\obj\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.exe
+C:\Users\oussama\Desktop\S9\Trading\TP6\BENSIDHOM_Oussama_TP6_ST2TRD\obj\Debug\BENSIDHOM_Oussama_TP6_ST2TRD.pdb
